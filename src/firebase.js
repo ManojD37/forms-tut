@@ -6,12 +6,12 @@ import { getAuth } from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyC4f0MM8-hUbbDLY3eS1wSpCQPeCoZHXuc",
-  authDomain: "form3-32e47.firebaseapp.com",
-  projectId: "form3-32e47",
-  storageBucket: "form3-32e47.appspot.com",
-  messagingSenderId: "698553574111",
-  appId: "1:698553574111:web:560465b164f34f120aff6a"
+  apiKey: "AIzaSyB8ToZ6BdMGL8uO6ggT0Y5RkDB8aAOBbZ4",
+  authDomain: "reni-login-proj.firebaseapp.com",
+  projectId: "reni-login-proj",
+  storageBucket: "reni-login-proj.appspot.com",
+  messagingSenderId: "184330481009",
+  appId: "1:184330481009:web:4840e99e5102d3795e1ad0"
 };
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
